@@ -9,3 +9,4 @@ IA_projet_Catboost
 Les données sont sur Zindi sur la compétition suivante : 
 Défi de prédiction de désabonnement Expresso 
 pensez-vous prédire quand un client de temps d'antenne passera à un autre fournisseur ?
+Voici le lien pour recupérer les données train et test : https://zindi.africa/competitions/expresso-churn-prediction/data
